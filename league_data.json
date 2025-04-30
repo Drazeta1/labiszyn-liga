@@ -1,0 +1,22 @@
+{
+  "Motor Łabiszyn": {
+    "Punkty": 3,
+    "Mecze": 1,
+    "Zwycięstwa": 1,
+    "Remisy": 0,
+    "Porażki": 0,
+    "Bramki zdobyte": 2,
+    "Bramki stracone": 1,
+    "Bilans": 1
+  },
+  "MKS Kakałko Łabiszyn": {
+    "Punkty": 0,
+    "Mecze": 1,
+    "Zwycięstwa": 0,
+    "Remisy": 0,
+    "Porażki": 1,
+    "Bramki zdobyte": 1,
+    "Bramki stracone": 2,
+    "Bilans": -1
+  }
+}
